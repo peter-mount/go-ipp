@@ -1,1 +1,1 @@
-module github.com/phin1x/go-ipp
+module github.com/peter-mount/go-ipp
